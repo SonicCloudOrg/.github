@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" src="https://raw.githubusercontent.com/SonicCloudOrg/sonic-server/main/logo.png">
+  <img width="40%" src="https://raw.githubusercontent.com/SonicCloudOrg/sonic-server/main/logo.png">
 </p>
 <p align="center">✨For tester, For free, Forever✨</p>
 
