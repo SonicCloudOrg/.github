@@ -6,6 +6,6 @@
 </p>
 <p align="center">✨For tester, For free, Forever✨</p>
 
-- [Sonic Official Website](http://sonic-cloud.gitee.io)
+- [Sonic Official Website](https://sonic-cloud.gitee.io)
 - [Sonic User Community](https://sonic-cloud.wiki/)
 - [SonicCloudOrg OpenCollective](https://opencollective.com/soniccloudorg)
