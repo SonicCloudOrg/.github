@@ -1,4 +1,6 @@
-<p align="center"><h2>✨For tester, For free, Forever✨</h2></p>
+<p align="center">
+✨For tester, For free, Forever✨
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SonicCloudOrg?affiliations=OWNER&style=social">
