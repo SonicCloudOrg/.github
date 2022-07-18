@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/SonicCloudOrg/sonic-server/main/logo.png">
+  <img width="140px" src="https://raw.githubusercontent.com/SonicCloudOrg/sonic-server/main/logo.png">
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/stars/SonicCloudOrg?affiliations=OWNER&style=social">
