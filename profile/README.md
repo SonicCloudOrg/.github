@@ -12,3 +12,4 @@
 - [Sonic Official Website](https://sonic-cloud.gitee.io)
 - [Sonic User Community](https://sonic-cloud.wiki/)
 - [OpenCollective](https://opencollective.com/soniccloudorg)
+Owner: @ZhouYixun
