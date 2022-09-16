@@ -2,7 +2,7 @@
   <img width="80px" src="https://raw.githubusercontent.com/SonicCloudOrg/sonic-server/main/logo.png">
 </p>
 <p align="center">
-✨For you, For free, Forever✨
+✨For You, For Free, Forever✨
 </p>
 
 <p align="center">
