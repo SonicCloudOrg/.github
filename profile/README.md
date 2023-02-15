@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/SonicCloudOrg?style=social">
-  <img src="https://img.shields.io/github/stars/SonicCloudOrg?affiliations=OWNER&style=social">
+  <img src="https://img.shields.io/github/stars/soniccloudorg?style=social">
   <img src="https://img.shields.io/github/downloads/SonicCloudOrg/sonic-agent/total">
 </p>
 
