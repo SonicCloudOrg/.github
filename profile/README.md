@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src='https://gitee.com/sonic-cloud/sonic-server/badge/star.svg?theme=gvp' alt='star'>
+<a href='https://gitee.com/sonic-cloud/sonic-server/stargazers'><img src='https://gitee.com/sonic-cloud/sonic-server/badge/star.svg?theme=gvp' alt='star'></img></a>
   <img src="https://img.shields.io/github/followers/SonicCloudOrg?style=social">
   <img src="https://img.shields.io/github/stars/soniccloudorg?style=social">
   <img src="https://img.shields.io/github/downloads/SonicCloudOrg/sonic-agent/total">
