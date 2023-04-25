@@ -15,6 +15,7 @@
 - 👉 [Sonic Official Website | 官方网站](https://sonic-cloud.cn)
 - 👉 [Sonic User Community | 用户社区](https://sonic-cloud.wiki/)
 - 👉 [OpenCollective](https://opencollective.com/soniccloudorg)
+- 📧 <a href="mailto:soniccloudorg@163.com" target="_blank">soniccloudorg@163.com</a>
 
 ---
 Sonic is a platform that integrates remote control debugging and automated testing of mobile devices, and strives to create a better use experience for global developers and test engineers.
