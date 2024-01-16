@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/followers/SonicCloudOrg?style=social">
   <img src="https://img.shields.io/github/stars/soniccloudorg?style=social">
   <img src="https://img.shields.io/github/downloads/SonicCloudOrg/sonic-agent/total">
+  <a href="https://discord.com/invite/c9ZD6jSyTE" target="_blank"><img src="https://img.shields.io/discord/1182530185749344307?color=%235865F2&logo=discord&logoColor=%23FFFFFF&style=flat-square"></a>
 </p>
 
 - 👉 [Sonic Official Website | 官方网站](https://sonic-cloud.cn)
