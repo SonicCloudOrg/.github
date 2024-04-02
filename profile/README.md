@@ -25,4 +25,4 @@ If you want to participate, welcome to join us! 💪
 
 If you want to support, you can give me a star. ⭐
 
-- Recently, we are planning to internationalize the project and official website documents. If you have any ideas, welcome to discuss!
+@ZhouYixun
